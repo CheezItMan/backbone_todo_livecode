@@ -1,4 +1,4 @@
-backbone-contact-manager
+Backbone Todo LiveCode
 ========================
 
-Simple Backbone.js example application
+Simple Backbone.js example application to build a todo list.
